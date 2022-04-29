@@ -1,7 +1,7 @@
 {
     "planets": [{
-        "Location": "Beijing",
-        "Identity": "a4de2130c2:0:ab5257bb05cd2fb8044fe26483f6d27b57124ca7b350fb3e0f07d405c68c4416094dbc836bf62ed483072501aa3384dff3c74ac50050c1bfbb1dc657001ef6a1",
+        "Location": "JP-tokyo",
+        "Identity": "5c19d57b74:0:e7af78f0050cd6defc208881cea281b02e1a5907ba8e04715d730923a6d72c316341f282ed068a1d226b172bbf5b0487c9f4508bee9e18f9626c9de76c6156a5",
         "Endpoints": [
             "127.0.0.1/9993"
         ]
