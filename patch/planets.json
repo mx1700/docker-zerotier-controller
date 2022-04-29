@@ -3,7 +3,7 @@
         "Location": "JP-tokyo",
         "Identity": "5c19d57b74:0:e7af78f0050cd6defc208881cea281b02e1a5907ba8e04715d730923a6d72c316341f282ed068a1d226b172bbf5b0487c9f4508bee9e18f9626c9de76c6156a5",
         "Endpoints": [
-            "127.0.0.1/9993"
+            "132.226.11.254/9993"
         ]
     }]
 }
