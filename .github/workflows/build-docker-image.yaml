@@ -9,8 +9,8 @@ on:
     branches:
       - main
   # Auto build @ every Monday 6:00am
-  schedule:
-    - cron: '0 6 * * 1'
+#  schedule:
+#    - cron: '0 6 * * 1'
 jobs:
   build:
     name: 'Build docker image'
